@@ -38,13 +38,7 @@ const projects = [
     title: "Sistema PWA para Panadería",
     description: "Sistema administrativo y de inventario desarrollado como Progressive Web App con diseño responsive y manejo de productos en tiempo real.",
     tags: ["JavaScript", "MySQL", "PWA"],
-    img: "/projects/Panadería.jpg    cd c:\Users\urabe\Downloads\portafolio_oscar_final
-    git init
-    git add .
-    git commit -m "primer commit"
-    git branch -M main
-    git remote add origin https://github.com/Oscar2812542/portafolio-oscar.git
-    git push -u origin main",
+    img: "/projects/panaderia.png",
   },
   {
     id: 3,

@@ -1,9 +1,18 @@
 
 {
   "name": "portafolio-oscar",
-  "private": true,
+  "description": "Portafolio profesional de Óscar García - Creative Developer, Game Developer y 3D Artist",
   "version": "1.0.0",
   "type": "module",
+  "author": "Óscar García <chchico280102@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oscar2812542/portafolio-oscar.git"
+  },
+  "keywords": ["portfolio", "developer", "game-development", "3d-art", "react"],
+  "homepage": "https://github.com/Oscar2812542/portafolio-oscar#readme",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
